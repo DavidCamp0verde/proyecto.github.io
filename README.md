@@ -1,2 +1,2 @@
 # proyecto.github.io
-Sistema de Facturación - Programación Orientada a Objetos
+Página del proyecto de un sistema de Facturación - Programación Orientada a Objetos
